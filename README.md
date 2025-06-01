@@ -31,8 +31,8 @@ Sou apaixonado por tecnologia e realizei uma transição de carreira há 3 anos,
 />
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt=".NET" 
+    title=".NET"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
