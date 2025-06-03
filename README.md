@@ -55,14 +55,6 @@ Sou apaixonado por tecnologia e realizei uma transição de carreira há 3 anos,
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
     alt="Talend" 
     title="Talend"
     width="30px" 
