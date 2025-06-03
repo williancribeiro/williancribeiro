@@ -39,6 +39,14 @@ Sou apaixonado por tecnologia e realizei uma transição de carreira há 3 anos,
 />
 <img 
     align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"  
+/>
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
